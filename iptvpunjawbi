@@ -1,631 +1,1009 @@
-#EXTINF:-1,  group-title="NEWS", INDIA TV
-https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_3@199237/chunks.m3u8
-#EXTINF:-1, NDTV
-https://d3t34m8y8rh0vb.cloudfront.net/preview/ndtvhindi/350.m3u8?hdnea=st=1547708459~exp=1547709059~acl=!*/20/preview/ndtvhindi/*!/payload/yuppTVCom_5_-1_dd147aac8a9d42a0_US_66.96.183.59/*~hmac=5eb08af0dfd7e831143dbadcbf290c85befcf8d4389a30452fc91ef693aee9c1
-#EXTINF:-1, INDIA TV
-https://msluk6s.akamaized.net/hls/live/2000171/indiatvmsl/indiatv_2000/chunklist.m3u8
-#EXTINF:-1, group-title="NEWS", JANTA TV
-http://284rnk9kr7xv-hls-live.wmncdn.net/jantatv/live.stream/tracks-v1a1/index.m3u8
-#EXTINF:-1, group-title="NEWS",NEWS INDIA
-http://103.14.127.37:1935/musiczone/musiczone.stream_360p/playlist.m3u8
-#EXTINF:-1, group-title="NEWS",INDIA NEWS
-https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:indianews_all/chunklist_w2030209424_b1628000.m3u8
-#EXTINF:-1, group-title="NEWS",INDIA NEWS
-http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1, group-title="NEWS",ZEE NEWS
-http://pockettv.xyz/api/zee.m3u8?c=zeenews
-#EXTINF:-1, group-title="NEWS",FASTWAY NEWS
-http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8
-#EXTINF:-1, group-title="NEWS",DELHI AAJ TAK
-https://vidcdn.vidgyor.com/dilliaajtak-origin/liveabr/dilliaajtak-origin/live2/chunks.m3u8
-#EXTINF:-1,group-title="NEWS", AAJ TAK
-http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/chunklist_w668703369_b150000.m3u8
-#EXTINF:-1, group-title="NEWS",AAJ TAK
-http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD500L720P/chunklist_b700000.m3u8
-#EXTINF:-1,group-title="NEWS", AAJ TAK
-https://msleurope8.akamaized.net/hls/live/2003252/aajtakpxy/aajtak_1800/chunklist.m3u8?hdntl=exp=1553146904~acl=/*~data=hdntl~hmac=ad6378e724cdead406bed526b088d6e5bf0ef0d680b1072cc78a2299b51cf9ce
-#EXTINF:-1, group-title="NEWS",TEZ
-https://msluk6s.akamaized.net/hls/live/2000171/teznewsmsl/teznews_1100/chunklist.m3u8
-#EXTINF:-1, group-title="NEWS",TEZ
-https://vidcdn.vidgyor.com/tez-origin/liveabr/tez-origin/live1/chunks.m3u8
-#EXTINF:-1, group-title="NEWS",INDIA NEWS
-http://103.14.127.35:1935/ddrajyasabha/ddrajyasabha.stream_360p/playlist.m3u8
-#EXTINF:-1, group-title="NEWS",TV100
-http://edge-ind.inapcdn.in:1935/edge1/shagun.stream_aac/chunklist_w1840712472.m3u8
-#EXTINF:-1,group-title="NEWS", NEWS 24
-https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
-#EXTINF:-1, group-title="NEWS",NEWS 24
-http://103.14.127.39:1935/news24/news24.stream_360p/playlist.m3u8
-#EXTINF:-1, group-title="NEWS",SAMAY
-http://103.14.127.37:1935/samay/samay.stream_360p/playlist.m3u8
-#EXTINF:-1, group-title="NEWS",ABP NEWS
-https://hls_live_hindi-i.akamaihd.net/hls/live/582539/abphindi/masterhls_96.m3u8
-#EXTINF:-1, group-title="NEWS",ABP NEWS
-http://103.14.127.35:1935/ddloksabha/ddloksabha.stream_360p/playlist.m3u8
-#EXTINF:-1, group-title="NEWS",INDIA NEWS PUNJAB
-https://d3cjrhqx3ygiqt.cloudfront.net/abr/ngrp:newspunjab_all/chunklist_w1082226080_b1628000.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",10 PUNJABI TV
-http://live.wmncdn.net/10tvpunjabi/e4152730b968f5b2774b47411db98651.sdp/index.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",WORLD PUNJABI TV
-http://fastway.ddns.net:6421/fastway/live5/tracks-v1a1/index.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",SPARK TV
-http://skystar.livebox.co.in/skystarhls/live.m3u8
-#EXTINF:-1, group-title="NEWS", AAHOO TV
-https://v.viralshit.in/live/aahomusic.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",PUNJABI
-http://cdn.samtv.ca/akaarworldpunjabi/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",PRIME ASIA HD
-http://primeasia.dyndns.org:25461/live/PrimeAsia/FHD720p/43979.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",BEATBOX TV
-http://yourside.live-s.cdn.bitgravity.com/cdn-live/_definst_/yourside/live/BeatBoxTV.smil/playlist.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",APNA PUNJAB NRITV
-http://livestream.5centscdn.com/apntv/c9a1fdac6e082dd89e7173244f34d7b3.sdp/tracks-v1a1/index.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",EKTA TV
-http://fastway.ddns.net:6421/fastway/alive/index.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",SADA PUNJAB
-http://103.81.156.115:1935/hello/saadapunjab/playlist.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",TV 84
-http://stream2.svbllc.com:1935/tv84/tv84.stream/playlist.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",JASHAN TV
-http://gmkd57nmrnxo-hls-live.wmncdn.net/1176/mwtv/f1cf7bd21ba17d7e65fac82935e07dae.sdp/tracks-v1a1/index.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",KANSHI TV
-http://live.kanshitv.co.uk/mobile/kanshitvkey_high/index.m3u8
-#EXTINF:-1,group-title="PUNJABI TV", SADA TV
-http://cdn12.henico.net:8080/live/sadatv/index.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",AONE MUSIC
-https://5c75277727cd1.streamlock.net/aonemusic/aonemusic/playlist.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",AONE TV
-http://95.216.226.165:1935/aonetv/aonetv/chunklist_w1198337982.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",PBN MUSIC
-http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",SHAN PUNJABI TV
-http://live.wmncdn.net/shanpunjabitv/36a030a5650ff0fb071ca626e899dd61.sdp/index.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",JUS PUNJABI HD
-http://jiocgwhub.jio.ril.com/JUSPunjabi/JUSPunjabi_600.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",JUS HINDI HD
-http://jiocgwhub.jio.ril.com/JUS24x7/JUS24x7_600.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",JUS ONE
-http://jiocgwhub.jio.ril.com/JUSOne/JUSOne_600.m3u8
-#EXTINF:-1,group-title="PUNJABI TV",B4U MASTI
-http://fastway.ddns.net:6421/fastway/live1011/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",NAVRANG TV
-http://195.181.169.151:8080/vaani_pun/tracks-v1a1/mono.m3u8
-#EXTINF:-1,group-title="PUNJABI TV",PUNJAB DE RANG
-http://195.181.169.151:8080/PUNJAB_DE_RANG_USA_HD_PUN/tracks-v1a1/mono.m3u8
-#EXTINF:-1,group-title="PUNJABI TV", RAUNAK PUNJAB DI
-http://195.181.169.151:8080/raonuk_pun/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",SABRANG TV
-http://cdn61.liveonlineservices.com/hls/subrang.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",PUNJABI MOVIES
-http://live.galpunjabditv.com/GPDTVHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1, J STAR
-http://cdn31.live247stream.com/jstar/tv/jstar/stream1/chunks.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",MEHAK TV
-http://195.181.169.151:8080/MehakTVPunjab-punjabi/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",TEHLKA ENTERTAINMENT
-http://195.181.169.151:8080/TEHLKAENT/PUN/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",WINIPEG PUNJABI TV
-http://195.181.169.151:8080/winnipeg_hul_pun/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",HULCHUL TV
-http://cdn12.henico.net:8080/live/jbani/index.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",PTC CHAKDE
-#EXTINF:-1, group-title="PUNJABI TV",PTUNES PLUS
-https://streamidea.multitvsolution.in/live/PtunesPlus-d/p3.m3u8
-#EXTINF:-1,group-title="PUNJABI TV",PTUNES
-https://streamidea.multitvsolution.in/live/PTunes-d/p4.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",AAHOO MUSIC
-https://v.viralshit.in/live/aahomusic.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",PTC CHAKDE
-http://123.249.76.157:10012/bysid/3
-#EXTINF:-1,group-title="PUNJABI TV", BRIT ASIA
-http://195.181.169.151:8080/BritAsia-punjabi/tracks-v1a1/mono.m3u8
-#EXTINF:-1,group-title="PUNJABI TV", PTC GOLD
-http://123.249.76.157:10012/bysid/4
-#EXTINF:-1,group-title="PUNJABI TV", PTC GOLD
-http://195.181.169.151:8080/ptcpunjabigold/tracks-v1a1/mono.m3u8
-#EXTINF:-1,group-title="PUNJABI TV", PTC MUSIC
-http://195.181.169.151:8080/ptc_music_pun/tracks-v1a1/mono.m3u8
-#EXTINF:-1,group-title="PUNJABI TV", TANGY PUNJABI TV
-http://cdn9.live247stream.com/punjabitvcanada/tv/punjabitvcanada/livestream/chunks.m3u8
-#EXTINF:-1,group-title="PUNJABI TV", PTC SIMRAN
-http://195.181.169.151:8080/ptc_simran_pun/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",PTC PUNJABI
-https://msluk5s.akamaized.net/hls/live/2000170/ptcpunjabimsl/ptcpunjabi_2000/chunklist.m3u8
-#EXTINF:-1,group-title="PUNJABI TV", PTC PUNJABI
-http://195.181.169.151:8080/PTCPunjabi-punjabi/tracks-v1a1/mono.m3u8
-#EXTINF:-1,  group-title="PUNJABI TV",PTC PUNJABI
-http://195.181.169.151:8080/PTC_punjabi_uk/tracks-v1a1/mono.m3u8
-#EXTINF:-1,group-title="PUNJABI TV", PTC PUNJABI
-http://123.249.76.157:10012/bysid/2
-#EXTINF:-1,group-title="PUNJABI TV", PTC NEWS
-http://123.249.76.157:10012/bysid/1
-#EXTINF:-1,  group-title="PUNJABI TV",PTC NEWS
-http://195.181.169.151:8080/PTCNews-punjabi/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",PTC NEWS
-https://msluk5s.akamaized.net/hls/live/2000170/ptcnewsmsl/ptcnews_2000/chunklist.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",PTC NEWS
-https://msluk5s.akamaized.net/hls/live/2000170/ptcnewsmsl/ptcnews_2000/chunklist.m3u8?hdntl=exp=1544087271~acl=/*~data=hdntl~hmac=9d948b08f521a29e40e7cae073772c9dc54308c5661b62cd232e4e7b9d291fe9
-#EXTINF:-1,group-title="PUNJABI TV", DAP PUNJABI
-http://195.181.169.151:8080/dil_apna_pun/tracks-v1a1/mono.m3u8
-#EXTINF:-1,  group-title="PUNJABI TV",PANTHAM TV
-http://103.81.156.115:1935/hello/phantam/chunklist_w1431133049.m3u8
-#EXTINF:-1, PRIME HD
-http://23.186.192.55:8080/live/primeplus/index.m3u8
-#EXTINF:-1,  group-title="PUNJABI TV",ONLY MUSIC
-http://195.181.169.151:8080/ONLY_MUSIC_PUN/tracks-v1a1/mono.m3u8
-#EXTINF:-1,  group-title="PUNJABI TV",5AAB MUSIC
-http://195.181.169.151:8080/5aabtv_music_pun/tracks-v1a1/mono.m3u8
-#EXTINF:-1,  group-title="PUNJABI TV",ALPHA PUNJABI
-http://195.181.169.151:8080/AlphaETCPunjabi-punjabi/tracks-v1a1/mono.m3u8
-#EXTINF:-1,  group-title="PUNJABI TV",GURBANI TV
-http://195.181.169.151:8080/EMPEE_PUN/tracks-v1a1/mono.m3u8
-#EXTINF:-1,  group-title="PUNJABI TV",DHUR KI BAANI
-http://195.181.169.151:8080/dhur_ki_Baani_pun/tracks-v1a1/mono.m3u8
-#EXTINF:-1,  group-title="PUNJABI TV",GARV PUNJABI HD
-http://195.181.169.151:8080/garv_punjabi/tracks-v1a1/mono.m3u8
-#EXTINF:-1,  group-title="PUNJABI TV",GLOBAB SANJH TV
-http://103.228.112.96:1935/globalsanjh/live/chunklist.m3u8
-#EXTINF:-1,  group-title="PUNJABI TV",GURBANI HEALING
-http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8
-#EXTINF:-1,  group-title="PUNJABI TV",NAMDHARI TV
-http://195.181.169.151:8080/Bhaini_Sahib_pun/tracks-v1a1/mono.m3u8
-#EXTINF:-1,  group-title="PUNJABI TV",PTC GURBANI
-http://195.181.169.151:8080/vc_punj_gurubani/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",BALLE BALLE 
-
-#EXTINF:-1, group-title="PUNJABI TV",BALLE BALLE
-http://live.cloud6.in:1935/balleballe/Live/chunklist_w1641902667.m3u8
-#EXTINF:1, group-title="PUNJABI TV",POP PATAKA
-https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_378_av-p.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",PUNJABI TADKA
-http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",BULLAND TV
-http://103.228.112.96:1935/bulandtv/live/playlist.m3u8
-#EXTINF:-1,group-title="PUNJABI TV", HAMDARD TV
-http://hamdard.dyndns.tv/hamdard/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",HAMDARD TV
-http://cdn.samtv.ca/hamdard/tracks-v1a1/mono.m3u8
-#EXTINF:-1,group-title="PUNJABI TV", NVK TV FILMY
-http://162.244.80.206:1935/live/nadivaid/chunklist_w566662471.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",SABRANG TV
-http://sydney.live247stream.com:8081/sabrang/tv/sabrang/stream1/chunks.m3u8
-#EXTINF:-1, group-title="PUNJABI TV", TRUCKING TV
-http://trucking-today.selfip.net/TRUCKING_TODAY/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",ANKHILA PUNJAB
-http://stream.ankhilapunjabtv.com/ankhilapunjabz/rbstreamrb.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",9X TASHAN
-http://pockettv.xyz/api/zee.m3u8?c=9xtashan
-#EXTINF:-1, group-title="PUNJABI TV",9X TASHAN
-http://195.181.169.151:8080/9xTashan-punjabi/tracks-v1a1/mono.m3u8
-#EXTINF:-1,group-title="PUNJABI TV", CHAKDE TV
-https://msluseast1s.akamaized.net/hls/live/2000129/chakdecstmsl/chakdecst_2000/chunklist.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",CHAKDE TV
-http://streamer3.ultapulta.com:7050/
-#EXTINF:-1, group-title="PUNJABI TV",JHANJAR MUSIC
-http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",JHANJAR HD
-http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",CINE VOICE
-http://lzyr7zo8dvw2-hls-live.wmncdn.net/1164/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/tracks-v1a1/index.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",SHAN PUNJABI TV 
-http://fastway.ddns.net:6421/fastway/live101/tracks-v1a1/index.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",CHARDIKLA TIME TV 
-http://voxtv.dynns.com:8000/punjabi/punjabi/178
-#EXTINF:-1,  group-title="PUNJABI TV",CHARDIKLA TIME TV
-http://195.181.169.151:8080/ChardiklaTIMETV-punjabi/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",PUNJAB TV
-http://cdn9.live247stream.com/punjabitvcanada/tv/punjabitvcanada/livestream/chunks.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",AD 24
-http://capcobroadcaststream.in:1935/capco/ad24/playlist.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",SSTV
-http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",PTN 24
-http://cdn.samtv.ca/ptv24/index.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",PRIME CANADA TV
-http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",SARDARI TV
-http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",VIRSA HITS HD
-http://103.228.112.96:1935/virsa/live/playlist.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",VIRSA LIVE
-http://skystar.livebox.co.in/virsatvchannelhls/livetv.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",TV PUNJAB
-http://cdn.samtv.ca/tvpunjab/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",TORRONTO 360
-http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",TORRONTO 16
-http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",STEELBIRD MUSIC
-http://cdn25.live247stream.com/steelbirdmusic/tv/steelbirdmusic/stream1/chunks.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",PUNJABI ZINDABAAD
-http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",WAH PUNJABI
-http://live.agmediachandigarh.com/wahpunjabi/45f5bff56a47f9ebb68595aac72db8b0.sdp/index.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",GO PUNJABI HD
-http://capcobroadcaststream.in:1935/capco/gopunjabi/playlist.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",DESI PLUS
-http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
-#EXTINF:-1,group-title="PUNJABI TV", GUBRU TV
-https://livetv.gabruu.com/live/mgabruutv.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",MASTI TV
-http://103.228.112.96:1935/masti/live/playlist.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",MH1
-http://voxtv.dynns.com:8000/punjabi/punjabi/177
-#EXTINF:-1, group-title="PUNJABI TV",MH1 NEWS
-http://mhonestream.in:1935/mhone/mhonenews/chunklist_w1975801534.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",PITAARA TV
-http://pitaaralive.planetcast.in/pitaaraTV/pitaaraTV.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",GAUNDA PUNJAB
-http://start.agmediachandigarh.com/gaundapunjab/tv/gaundapunjab/stream/chunks.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",DESI CHANNEL
-http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
-#EXTINF:1, group-title="PUNJABI TV",DESI CHANNEL
-http://ayedewz3dnl6-hls-live.wmncdn.net/1167/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/tracks-v1a1/index.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",5AAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",BOOGLE BOLYWOOD
-http://95erywm2dwn4-hls-live.wmncdn.net/1173/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/tracks-v1a1/index.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",PUNJAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w642807911.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",FASTWAY TV
-http://fastway.ddns.net:6421/fastway/live10/tracks-v1a1/index.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",LIFE PUNJABI
-http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
-#EXTINF:-1,  group-title="HINDI", MANORANJAN MOVIES
-http://123.249.76.157:10030/bysid/8
-#EXTINF:-1, group-title="HINDI", MANORANJAN TV
-http://cdn.asianetmobiletvplus.com/channels/manoranjan_jhuvvyjdcuzpsonvhioijenmvieiaysg/playlist.m3u8
-#EXTINF:-1, group-title="HINDI", MUSIC INDIA
-https://akamaimidrol.akamaized.net/amagi_hls_data_yupptvAAA-mob-musicindia/CDN/384x216_320798/index.m3u8
-#EXTINF:-1, group-title="HINDI", WOW MUSIC
-http://103.199.161.254/Content/wowmusic/Live/Channel(WowMusic)/Stream(01)/index.m3u8
-#EXTINF:-1, group-title="HINDI", WOW MUSIC
-http://209.58.160.177/wowouthls/live_260.m3u8
-#EXTINF:-1, group-title="HINDI", 9XM
-http://31.3.242.186:1935/probashi/9xm/playlist.m3u8
-#EXTINF:-1, group-title="HINDI", SONY MIX
-http://live.airtel.tv/sonymix/smil:common.smil/chunklist_b896000_sleng.m3u8
-#EXTINF:-1, group-title="HINDI", MUSIC INDIA
-https://ylive72-i.akamaihd.net/hls/live/691745/musicindia/musicindia_2000/chunklist.m3u8
-#EXTINF:-1, group-title="HINDI",MASTI TV
-http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD254L720P/chunklist_b300000.m3u8
-#EXTINF:-1, group-title="HINDI", MASTI TV
-http://cdn.asianetmobiletvplus.com/channels/mastimusic_vbvczcesjamgfewdfiviqqerafjrxcph/playlist.m3u8
-
-#EXTINF:-1, group-title="HINDI", 9X JALWA
-https://yuppad10-i.akamaihd.net/hls/live/682741/9xjalwaamg/9xjalwa_1800/chunklist.m3u8
-#EXTINF:-1, group-title="HINDI", AND TV HD
-
-#EXTINF:-1, group-title="HINDI",STAR BHARAT HD
-http://voxtv.dynns.com:8000/movies/movies/540
-#EXTINF:-1,group-title="HINDI", STAR BHARAT HD
-https://akamai.anytv.live/StarBharatHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,group-title="HINDI", STAR BHARAT HD
-http://103.205.133.44:1935/ns/STARBHARATHD/playlist.m3u8
-#EXTINF:-1, group-title="HINDI", STAR BHARAT
-https://mslapacs.akamaized.net/hls/live/692167/lifeokau/lifeokau_400k/chunklist.m3u8
-#EXTINF:-1,group-title="HINDI", COLORS HD
-http://voxtv.dynns.com:8000/movies/movies/122
-#EXTINF:-1, group-title="HINDI", COLORS HD
-http://globalbd.mywire.org:8081/globe/colorstv/chunks.m3u8
-#EXTINF:-1, group-title="HINDI", COLORS HD
-https://akamai.anytv.live/ColorsHHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="HINDI", COLORS HD
-http://colorsiptv2.dynu.net:8081/globalbd/colorsbd_colorstv/chunks.m3u8
-#EXTINF:-1, group-title="HINDI", COLORS TV
-https://mslapacs.akamaized.net/hls/live/692167/colorsau/colorsau_1800k/chunklist.m3u8
-#EXTINF:-1, group-title="HINDI", STAR PLUS
-https://mslapacs.akamaized.net/hls/live/692167/starplusau/starplusau_1800k/chunklist.m3u8
-#EXTINF:-1, group-title="HINDI",STAR PLUS 
-http://130.185.150.79:1935/trunk/STAR-PLUS/playlist.m3u8
-#EXTINF:-1, group-title="HINDI", STAR PLUS HD
-http://voxtv.dynns.com:8000/movies/movies/131
-#EXTINF:-1, group-title="HINDI",SAHARA ONE
-http://123.249.76.157:10020/bysid/1
-#EXTINF:-1, group-title="HINDI", B4U MUSIC
-http://161.0.157.5/PLTV/88888888/224/3221226332/03.m3u8
-#EXTINF:-1, group-title="HINDI", ZING
-http://livecdnh1.tvanywhere.ae/hls/zing/index.m3u8
-#EXTINF:-1, group-title="HINDI", B4U MUSIC
-https://ind17-lh.akamaihd.net/i/ind17_b4umusic@68543/index_2000_av-p.m3u8?sd=10&dw=7200&b=100-2500&rebase=on
-#EXTINF:-1, group-title="HINDI", MTV INDIA
-https://mslapacs.akamaized.net/hls/live/692167/mtvau/mtvau_400k/chunklist.m3u8
 #EXTM3U
-#EXTINF:-1, group-title="HINDI", NTV
-http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
-#EXTINF:-1, STAR GOLD HD
-
-#EXTINF:-1, group-title="HINDI", STAR GOLD
-
-
-
-#EXTINF:-1, group-title="HINDI", MBC BOLLYWOOD
-http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
-#EXTINF:-1, group-title="HINDI", B4U PLUS
-http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
-#EXTINF:-1, group-title="HINDI", B4U PLUS
-
-#EXTINF:-1, group-title="HINDI", CINE MOVIES
-http://cdn.asianetmobiletvplus.com/channels/hathwayccc_mxqlfydxrrnvteglmkeacyuuhyfjrqec/playlist.m3u8
-#EXTINF:-1, group-title="HINDI", BBO CLASSIC
-
-#EXTINF:-1, group-title="HINDI", BBO HD
-
-#EXTINF:-1, group-title="HINDI", BBO MOVIES
-
-#EXTINF:-1, group-title="HINDI", CLASSIC HINDI
-https://d1fi1
-9tywmn14b.cloudfront.net/yuppindmov/ngrp:yhincla.stream_all/chunklist_w1902359197_b1296000.m3u8
-#EXTINF:-1, group-title="HINDI", PREMIUM HINDI
-https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:yhinpre.stream_all/chunklist_w1077732830_b1296000.m3u8
-#EXTINF:-1, group-title="HINDI", SHEMAROO PUNJABI TV
-https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklist_1920x1080_cf.m3u8
-#EXTINF:-1, group-title="HINDI",SHEMAROO HINDI
-https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
-#EXTINF:-1, SHEMAROO MOVIES
-https://youtu.be/ihqvuDTiYO4
-#EXTINF:-1, group-title="HINDI", MBC BOLLYWOOD
-http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
-#EXTINF:-1, group-title="HINDI", BOLLYWOOD CLASSIC
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1, group-title="HINDI", ENTER 10
-http://cdn.asianetmobiletvplus.com/channels/enterten_oppmidgajwnahpvbruqpuyuxjjxlochb/playlist.m3u8
-#EXTINF:-1, group-title="HINDI",AND PICTURES HD
-http://pockettv.xyz/api/zee.m3u8?c=andpicshd
-#EXTINF:-1, group-title="HINDI",AND PICTURES
-http://pockettv.xyz/api/zee.m3u8?c=andpicssd
-#EXTINF:-1, group-title="HINDI",AND PICTURES
-http://live.airtel.tv/andpictures/smil:common.smil/chunklist_b896000_sleng.m3
-#EXTINF:-1 group-title="HINDI", And TV
-http://pockettv.xyz/api/zee.m3u8?c=andtvsd
-#EXTINF:-1 group-title="HINDI", And TV
-http://pockettv.xyz/api/zee.m3u8?c=andtvhd
-#EXTINF:-1, group-title="HINDI",group-title="HINDI",FILMY
-http://123.249.76.157:10020/bysid/9
-#EXTINF:-1, group-title="HINDI", MAHA MOVIES
-http://123.249.76.157:10011/bysid/1308
-#EXTINF:-1, group-title="HINDI",STAR GOLD HD
-https://akamai.anytv.live/StarGoldHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="HINDI", STAR GOLD HD
-http://voxtv.dynns.com:8000/movies/movies/191
-#EXTINF:-1,group-title="HINDI", STAR GOLD HD 
-http://103.205.133.44:1935/ns/STARGOLDHD/playlist.m3u8
-#EXTINF:-1, group-title="HINDI", STAR GOLD SELECT HD
-http://103.205.133.44:1935/ns/STARGOLDSELECTHD/playlist.m3u8
-#EXTINF:-1, group-title="HINDI", UTV HD
-http://103.205.133.44:1935/ns/UTVHD/playlist.m3u8
-
-
-#EXTINF:-1, group-title="HINDI", UTV ACTION
-
-#EXTINF:-1, group-title="HINDI", UTV MOVIES
-
-#EXTINF:-1, group-title="HINDI", MINIPLEX HD
-http://209.126.116.187:1935/trunk3/MINIPLEXHD/playlist.m3u8
-#EXTINF:-1,  group-title="HINDI", B4U KADAK
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
-#EXTINF:-1, group-title="HINDI", B4U MOVIES
-http://live.airtel.tv/b4umovies/smil:common.smil/chunklist_b896000_sleng.m3u8
-#EXTINF:-1,  group-title="HINDI",B4U MOVIES
-http://103.199.161.254/Content/B4Umovies/Live/Channel(B4UMovies)/index.m3u8
-#EXTINF:-1,  group-title="HINDI",B4U MOVIES
-https://yuppmslukmo.akamaized.net/hls/live/2006787/b4umoviesint/b4umoviesint/b4umoviesint_1800/chunklist.m3u8
-#EXTINF:-1, group-title="HINDI", COLORS CINEPLEX
-https://mslapacs.akamaized.net/hls/live/692167/ristheycineplex/ristheycineplex_1800k/chunklist.m3u8
-#EXTINF:-1, 
-#EXTINF:-1,  group-title="HINDI",COLORS CINEPLEX HD
-http://103.205.133.44:1935/ns/CINEPLEXHD/playlist.m3u8
-#EXTINF:-1, group-title="HINDI", RISHTEY CINEPLEX
-https://mslapacs.akamaized.net/hls/live/692167/ristheycineplex/ristheycineplex_1200k/chunklist.m3u8
-#EXTINF:-1, group-title="HINDI", WOW CINEMA
-http://123.249.76.157:10010/bysid/2
-#EXTINF:-1, group-title="HINDI", WOW CINEMA
-http://hindi.flussonic.cdnpro.me/WOWCINEMA/HIN/index.m3u8
-#EXTINF:-1, group-title="HINDI", CINEMA TV
-http://cdn.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
-#EXTINF:-1, group-title="HINDI", CINEMA TV
-
-#EXTINF:-1, group-title="HINDI", D2H CINEMA HD
-http://103.205.133.44:1935/ns/D2HCINEMAHD/playlist.m3u8
-
-#EXTINF:-1, group-title="HINDI",STAR UTSAV MOVIES
-http://103.205.133.44:1935/ns/STARUTSAVMOVIES/playlist.m3u8
-
-#EXTINF:-1, IMAGINE MOVIES
-http://95.170.215.124/live/disk1/Imagine_Movies/anevia1/Imagine_Movies-audio_20000=160000-video=1587600.m3u8
-#EXTINF:-1, ZEE AFLAM
-http://95.170.215.124/live/disk1/Zee_Aflam/anevia1/Zee_Aflam-audio_20000=160000-video=1587600.m3u8
-#EXTINF:-1, ZEE AFLAM
-http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
-#EXTINF:-1, group-title="HINDI", ZEE ACTION
-http://pockettv.xyz/api/zee.m3u8?c=action
-#EXTINF:-1, group-title="HINDI", ZEE ACTION 
-http://216.144.250.174/Zee_Action_HD/index.m3u8
-#EXTINF:-1, group-title="HINDI", ZEE BOLLYWOOD
-http://216.144.250.174/Zee_Classic_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="HINDI", ZEE BOLLYWOOD
-http://pockettv.xyz/api/zee.m3u8?c=classic
-#EXTINF:-1, group-title="HINDI", ZEE TV HD 
-http://216.144.250.174/Zee_TV_HD_02/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="HINDI", ZEE TV HD
-http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
-#EXTINF:-1,group-title="HINDI", ZEE TV HD 
-http://103.205.133.44:1935/ns/ZEETVINDIAHD/chunklist_w1980688212.m3u8
-#EXTINF:-1,group-title="HINDI", ZEE TV HD  
-http://live.airtel.tv/zeetvhd/smil:common.smil/chunklist_b896000_sleng.m3u8
-#EXTINF:-1,group-title="HINDI", ZEE TV
-http://pockettv.xyz/api/zee.m3u8?c=zeetvsd
-#EXTINF:-1, group-title="HINDI", Z LIVING USA
-https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
-#EXTINF:-1,  group-title="HINDI",ZEE CINEMA HD
-http://voxtv.dynns.com:8000/movies/movies/503
-#EXTINF:-1, group-title="HINDI", ZEE CINEMA HD
-https://mslapacs.akamaized.net/hls/live/692167/zeecinemaapachd/zeecinemaapachd_2400k/chunklist.m3u8
-#EXTINF:-1, group-title="HINDI", ZEE CINEMA HD
-https://akamai.anytv.live/ZeeCinemaHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="HINDI", ZEE CINEMA HD
-http://pockettv.xyz/api/zee.m3u8?c=zcinemahd
-#EXTINF:-1,group-title="HINDI", ZEE CINEMA HD 
-http://103.205.133.44:1935/ns/ZEECINEMAHD/playlist.m3u8
-http://voxtv.dynns.com:8000/movies/movies/503
-#EXTINF:-1, group-title="HINDI", ZEE ANMOL CINEMA
-http://pockettv.xyz/api/zee.m3u8?c=zanmolcnm
-#EXTINF:-1,group-title="HINDI",ZEE CINEMA
-http://130.185.150.79:1935/trunk/ZEE-CINEMA/playlist.m3u8
-#EXTINF:-1, group-title="HINDI",ZEE CINEMA
-http://216.144.250.174/Zee_Cinema_HD/index.m3u8
-#EXTINF:-1, group-title="HINDI", ZEE CINEMA
-http://pockettv.xyz/api/zee.m3u8?c=zcinemasd
-#EXTINF:-1, group-title="HINDI",  ZEE CINEMA 
-http://voxtv.dynns.com:8000/movies/movies/503
-#EXTINF:-1, group-title="HINDI", ZEE CINEMA
-https://msluseast1s.akamaized.net/hls/live/2000129/zeecinemamsl/zeecinema_2000/chunklist.m3u8
-#EXTINF:-1,  group-title="HINDI", SONY MAX HD
-http://103.205.133.44:1935/ns/SONYMAXINDIAHD/playlist.m3u8
-#EXTINF:-1, group-title="HINDI", SONY MAX HD
-https://msleurope2s.akamaized.net/hls/live/2000183/setmaxukhdmsl/setmaxukhdmsl_2400/chunklist.m3u8
-#EXTINF:-1, 
-
-#EXTINF:-1, group-title="HINDI", SONY MAX2
-http://live.airtel.tv/sonymax2/smil:common.smil/chunklist_b896000_sleng.m3u8
-#EXTINF:-1, group-title="HINDI",SONY MAX2
-http://216.144.250.174/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="HINDI",SONY MAX
-http://live.airtel.tv/sonymax/smil:common.smil/chunklist_b896000_sleng.m3u8
-#EXTINF:-1, group-title="HINDI", BFLIX MOVIES
-http://130.185.150.79:1935/trunk/Bflix-Movies/playlist.m3u8
-#EXTINF:-1, group-title="HINDI", SONY MAX
-https://mslapacs.akamaized.net/hls/live/692167/setmaxaumsl2/setmaxau_1800k/chunklist.m3u8
-#EXTINF:-1, group-title="HINDI", SONY SAB HD
-http://voxtv.dynns.com:8000/movies/movies/502
-
-
-#EXTINF:-1, group-title="HINDI", SONY HD
-http://103.205.133.44:1935/ns/SONYINDIAHD/playlist.m3u8
-#EXTINF:-1, SONY HD
-
-#EXTINF:-1, group-title="HINDI", SONY HD
-http://103.205.133.44:1935/ns/SONYINDIAHD/playlist.m3u8
-#EXTINF:-1, group-title="HINDI", SONY HD
-https://msleurope2s.akamaized.net/hls/live/2000183/sonymaxukhdmsl/sonymaxukhdmsl_600/chunklist.m3u8
-#EXTINF:-1,  group-title="HINDI",SONY TV
-http://live.airtel.tv/set/smil:common.smil/chunklist_b896000_sleng.m3u8
-#EXTINF:-1, group-title="HINDI",SONY TV
-http://130.185.150.79:1935/trunk/SONY-HD/playlist.m3u8
-#EXTINF:-1, group-title="HINDI", SONY TV 
-https://mslapacs.akamaized.net/hls/live/692167/sonyaumsl/sonyau_1800k/chunklist.m3u8
-#EXTINF:-1, group-title="HINDI", SONY SAB
-https://mslapacs.akamaized.net/hls/live/692167/sabtvau/sabtvau_1800k/chunklist.m3u8
-
-#EXTINF:-1, group-title="SPORTS",SONY ESPN 
-http://voxtv.dynns.com:8000/movies/movies/540
-#EXTINF:-1, group-title="SPORTS",SONY ESPN  
-http://130.185.150.79:1935/trunk/SONY-ESPN/playlist.m3u8
-#EXTINF:-1,group-title="SPORTS", SONY ESPN HD
-http://voxtv.dynns.com:8000/movies/movies/533
-#EXTINF:-1, group-title="SPORTS", SONY SIX
-http://130.185.150.79:1935/trunk/SONY-SIX/playlist.m3u8
-#EXTINF:-1,  group-title="SPORTS",SONY SIX HD
-
-#EXTINF:-1, SONY SIX HD
-
-#EXTINF:-1, group-title="SPORTS", TEN 1 HD
-http://103.205.133.44:1935/ns/TEN1HD/playlist.m3u8
-#EXTINF:-1, TEN 1 HD
-
-#EXTINF:-1, TEN 1 HD
-
-#EXTINF:-1, TEN 1 HD
-
-#EXTINF:-1, group-title="SPORTS", TEN 1 HD
-http://123.249.76.157:10018/bysid/75
-#EXTINF:-1, group-title="SPORTS", TEN 2 
-http://103.231.228.229/hls/HDMI-EARTEL3.m3u8
-#EXTINF:-1, group-title="SPORTS", TEN 2 HD
-http://103.205.133.44:1935/ns/TEN2HD/playlist.m3u8
-
-#EXTINF:-1, group-title="SPORTS", TEN 3 HD
-http://103.205.133.44:1935/ns/TEN3HD/playlist.m3u8
-#EXTINF:-1, TEN 3 HD
-
-#EXTINF:-1, group-title="SPORTS", PTV SPORTS
-http://163.172.46.35:8080/Spirit/4/index.m3u8?token=MjcuOTcuMTY5LjE1Ny10b2tlbjEtMTU2NDY1OTIxOA==
-
-#EXTINF:-1, group-title="SPORTS", PTV SPORTS
-http://87.117.234.107:1935/trunk/PTVSPORTS/playlist.m3u8
-#EXTINF:-1, group-title="SPORTS", SPORT MAX
-http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
-#EXTINF:-1, group-title="SPORTS", SKY SPORTS CRICKET
-http://voxtv.dynns.com:8000/nimble/nimble/198
-#EXTINF:-1, SKY SPORTS ARENA
-http://87.117.229.52:1935//trunk/SkySportsArenaFHD/playlist.m3u8
-#EXTINF:-1, DSPORTS
-http://s01.indianhdtv.com/live/tv/RXt4f4bWx6/606.m3u8
-#EXTINF:-1, group-title="SPORTS", DSPORTS
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_600.m3u8
-#EXTINF:-1,group-title="SPORTS", D SPORTS
-http://209.126.116.187:1935/trunk3/DSPORTSHD/playlist.m3u8
-#EXTINF:-1,group-title="SPORTS", PTV SPORTS
-http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:9960/z5mCv5Q46z//64256.m3u8
-#EXTINF:-1, group-title="SPORTS", PTV SPORTS
-https://cdn2.thesportsflix.com/app/ptvsportshd.m3u8
-#EXTINF:-1, group-title="SPORTS",STAR SPORTS SELECT 2HD
-http://voxtv.dynns.com:8000/movies/movies/530
-#EXTINF:-1,group-title="SPORTS", STAR SPORTS SELECT 1 HD
-http://voxtv.dynns.com:8000/movies/movies/530
-#EXTINF:-1,group-title="SPORTS",STAR SPORTS SELECT 1 HD
-http://175.41.46.16:8081/hls/1.m3u8
-#EXTINF:-1, group-title="SPORTS",STAR SPORTS SELECT 1 HD
-http://103.205.133.44:1935/ns/STARSPORTSSELECT1HD/playlist.m3u8
-#EXTINF:-1, group-title="SPORTS",STAR SPORTS SELECT 2 HD
-http://103.205.133.44:1935/ns/STARSPORTSSELECT2HD/playlist.m3u8
-#EXTINF:-1, STAR SPORTS SELECT 2 
-http://voxtv.dynns.com:8000/movies/movies/528
-#EXTINF:-1, SKY SPORTS
-http://cdn2.thesportsflix.com/app/ptvsportshd.m3u8
-#EXTINF:-1,group-title="SPORTS", WATAN HD
-http://51.15.242.185/hls/stream.m3u8
-#EXTINF:-1, ,group-title="SPORTS",TEN SPORTS
-http://163.172.46.35:8080/Spirit/1/index.m3u8?token=MjcuOTcuMTY5LjE1Ny10b2tlbjEtMTU2NDY1OTIxOA==
-#EXTINF:-1, group-title="SPORTS",STAR SPORTS 2 HD
-http://globalbd.mywire.org:8081/globe/starsports2/chunks.m3u8
-#EXTINF:-1,group-title="SPORTS",STAR SPORTS FIRST
-http://31.3.242.186:1935//trunk4/STAR-SP-FIRST/playlist.m3u8
-#EXTINF:-1, group-title="SPORTS",STAR SPORTS 2
-http://gdcsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd2livetv/master_800.m3u8
-#EXTINF:-1,group-title="SPORTS", STAR SPORTS 1 HINDI
-https://akamai.anytv.live/StarSports1HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="SPORTS",STAR SPORTS HINDI 1 HD
-http://voxtv.dynns.com:8000/movies/movies/1294
-#EXTINF:-1,group-title="SPORTS", STAR SPORTS 2 HD
-http://cdn2.thesportsflix.com/app/starsports1hd.m3u8
-#EXTINF:-1,group-title="SPORTS",STAR SPORTS 1 HD
-http://175.41.46.16:8081/hls/2.m3u8
-#EXTINF:-1,group-title="SPORTS", STAR SPORTS
-http://103.231.228.229/hls/khl-STAR-HDMI1.m3u8
-#EXTINF:-1,group-title="SPORTS",STAR SPORTS 1 HD
-http://voxtv.dynns.com:8000/movies/movies/529
-#EXTINF:-1,group-title="SPORTS", STAR SPORTS 2HD
-https://akamai.anytv.live/StartSports2HHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="SPORTS", STAR SPORTS 2HD
-http://103.205.133.44:1935/ns/STARSPORTS2HD/playlist.m3u8
-#EXTINF:-1, group-title="SPORTS",STAR SPORTS 2HD
-http://209.126.116.187:1935/trunk3/STARSPORTS2HD/playlist.m3u8
-#EXTINF:-1, group-title="SPORTS",STAR SPORTS 1 HD
-http://globalbd.mywire.org:8081/globe/starsports1/chunks.m3u8
-#EXTINF:-1,group-title="SPORTS", STAR SPORTS 2
-http://voxtv.dynns.com:8000/movies/movies/528
-#EXTINF:-1,group-title="SPORTS", STAR SPORTS 1 HD
-http://voxtv.dynns.com:8000/movies/movies/529
-
-#EXTINF:-1, group-title="SPORTS", SKY SPORTS
-https://ul.cdn946.net:8443/hls/amwedb9nkkantoo.m3u8?s=u_z-tWPooEnBCipnlsSTZA&e=1561981808
-
-#EXTINF:-1, group-title="SPORTS", STAR SPORTS HINDI
-
-#EXTINF:-1, group-title="SPORTS", WILLOW HD
-http://globalbd.mywire.org:8081/globe/willow/playlist.m3u8
-#EXTINF:-1,group-title="SPORTS", WILLOW HD
-http://163.172.46.35:8080/Spirit/2/index.m3u8?token=MjcuOTcuMTY5LjE1Ny10b2tlbjEtMTU2NDY1OTIxOA==
-#EXTINF:-1, LADDI
-http://mhdtvworld.com/jiostar/stream2.php?ts=Star_Sports_Select_1/Star_Sports_Select_1_JSRV12_1200-1558430560000.ts
+#EXTINF:0,IN:  Ayush TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23389.m3u8
+#EXTINF:0,IN:  Channel Divya
+http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/chunklist_w1157917870.m3u8
+#EXTINF:0,IN:  Mh 1 News TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23390.m3u8
+#EXTINF:0,IN:  TIMES NOW
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/32530.m3u8
+#EXTINF:0,IN:  TV 100
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/16130.m3u8
+#EXTINF:0,IN: 1IndiaNews-Hindi
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/16235.m3u8
+#EXTINF:0,IN: 1st India TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/16260.m3u8
+#EXTINF:0,IN: AAJ TAK
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/32528.m3u8
+#EXTINF:0,IN: ABP NEWS
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/32533.m3u8
+#EXTINF:0,IN: ACV News TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/19285.m3u8
+#EXTINF:0,IN: AKD Calcutta News TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23856.m3u8
+#EXTINF:0,IN: AMRITA TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/32502.m3u8
+#EXTINF:0,IN: Anjan TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23796.m3u8
+#EXTINF:0,IN: Aradana TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/29637.m3u8
+#EXTINF:0,IN: ASIANET INDIA
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/32503.m3u8
+#EXTINF:0,IN: ASIANET NEWS
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/32504.m3u8
+#EXTINF:0,IN: ASIANET NIEWS
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/32531.m3u8
+#EXTINF:0,IN: ASIANET UK
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/32506.m3u8
+#EXTINF:0,IN: ASIANET USA
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/32507.m3u8
+#EXTINF:0,IN: Assam Talks TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23781.m3u8
+#EXTINF:0,IN: Athavan TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/16258.m3u8
+#EXTINF:0,IN: Athavan TV  srilanka
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/29636.m3u8
+#EXTINF:0,IN: BANSAL NEWS
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/21996.m3u8
+#EXTINF:0,IN: Bansal News TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/21998.m3u8
+#EXTINF:0,IN: BBC Toronto
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23422.m3u8
+#EXTINF:0,IN: Cine Voice
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23416.m3u8
+#EXTINF:0,IN: CNBC Awaaz TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/24962.m3u8
+#EXTINF:0,IN: CNBC TV 18
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23855.m3u8
+#EXTINF:0,IN: CNN News18 TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/24970.m3u8
+#EXTINF:0,IN: DD News TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/16236.m3u8
+#EXTINF:0,IN: DD Podhigai TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/21992.m3u8
+#EXTINF:0,IN: DD Punjabi TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/24971.m3u8
+#EXTINF:0,IN: DD RajyaSabha
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/18395.m3u8
+#EXTINF:0,IN: DELHI
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/32529.m3u8
+#EXTINF:0,IN: Desi Channel
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/26378.m3u8
+#EXTINF:0,IN: Desi Plus
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/25028.m3u8
+#EXTINF:0,IN: Dighvijay News TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23414.m3u8
+#EXTINF:0,IN: Divine TV UK
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/16113.m3u8
+#EXTINF:0,IN: Divyavani TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/18423.m3u8
+#EXTINF:0,IN: DY 365
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/11629.m3u8
+#EXTINF:0,IN: DY 365 TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/18412.m3u8
+#EXTINF:0,IN: Eet TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23397.m3u8
+#EXTINF:0,IN: EnglishMirror Now
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23792.m3u8
+#EXTINF:0,IN: EnglishTimes Now HD
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23815.m3u8
+#EXTINF:0,IN: ET Now TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/16065.m3u8
+#EXTINF:0,IN: Fastway News TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23858.m3u8
+#EXTINF:0,IN: Fastway TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23395.m3u8
+#EXTINF:0,IN: Garshom News
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/25030.m3u8
+#EXTINF:0,IN: Garshom Tv
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23393.m3u8
+#EXTINF:0,IN: Goodness TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/18408.m3u8
+#EXTINF:0,IN: Gospel TV India
+http://live.streamplay.in:1935/gospeltv/gospeltv/chunklist_w263209864.m3u8
+#EXTINF:0,IN: GS TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/29639.m3u8
+#EXTINF:0,IN: Gulistan News TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/18413.m3u8
+#EXTINF:0,IN: Gurbaani TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23391.m3u8
+#EXTINF:0,IN: Harvest TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/22000.m3u8
+#EXTINF:0,IN: Harvest USA TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/22001.m3u8
+#EXTINF:0,IN: Headlines Tripura TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/16117.m3u8
+#EXTINF:0,IN: HindiJanta TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23388.m3u8
+#EXTINF:0,IN: HMTV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23861.m3u8
+#EXTINF:0,IN: HNN TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/21983.m3u8
+#EXTINF:0,IN: Hope Channel
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/18402.m3u8
+#EXTINF:0,IN: IBC Tamil TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/16259.m3u8
+#EXTINF:0,IN: IBC TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/24973.m3u8
+#EXTINF:0,IN: IBN Lokmat TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/20267.m3u8
+#EXTINF:0,IN: Ind TV USA
+https://t06858-lh.akamaihd.net/i/t06858a_1@719164/index_1500000_av-p.m3u8
+#EXTINF:0,IN: Ind24 TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/21987.m3u8
+#EXTINF:0,IN: INDIA  NEWS
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23910.m3u8
+#EXTINF:0,IN: INDIA TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/20253.m3u8
+#EXTINF:0,IN: IPLUS TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/19278.m3u8
+#EXTINF:0,IN: Ishwar TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/32514.m3u8
+#EXTINF:0,IN: Jan TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/21989.m3u8
+#EXTINF:0,IN: Janam TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/14078.m3u8
+#EXTINF:0,IN: JANTA TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/21988.m3u8
+#EXTINF:0,IN: Jeevan TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/20263.m3u8
+#EXTINF:0,IN: Jhanjar Music
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/25033.m3u8
+#EXTINF:0,IN: Jhanjar Religious
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23386.m3u8
+#EXTINF:0,IN: JK 24◊7 News Channel
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/21995.m3u8
+#EXTINF:0,IN: Jonack TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/16121.m3u8
+#EXTINF:0,IN: Kanak NEWS
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/16247.m3u8
+#EXTINF:0,IN: Kantipur TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/19281.m3u8
+#EXTINF:0,IN: Kaumudy TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/24980.m3u8
+#EXTINF:0,IN: LOK SABHA TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/16252.m3u8
+#EXTINF:0,IN: Madha TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/16240.m3u8
+#EXTINF:0,IN: Mahua Plus
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23786.m3u8
+#EXTINF:0,IN: Mahua+ channel
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/16115.m3u8
+#EXTINF:0,IN: Malayalam Jeevan TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23387.m3u8
+#EXTINF:0,IN: MalayalamKaumudy
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23780.m3u8
+#EXTINF:0,IN: Media One TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23860.m3u8
+#EXTINF:0,IN: Metro TV Telugu
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/25020.m3u8
+#EXTINF:0,IN: Mh 1 Music TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/32527.m3u8
+#EXTINF:0,IN: Mh 1 Shraddha TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23944.m3u8
+#EXTINF:0,IN: Nambikkai TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/21993.m3u8
+#EXTINF:0,IN: NDTV 24◊7
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/18399.m3u8
+#EXTINF:0,IN: NDTV India
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/25035.m3u8
+#EXTINF:0,IN: NDTV Profit
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23857.m3u8
+#EXTINF:0,IN: New Hope TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/16114.m3u8
+#EXTINF:0,IN: News 24 TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/16232.m3u8
+#EXTINF:0,IN: News X TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/32508.m3u8
+#EXTINF:0,IN: News18 Assam TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/16067.m3u8
+#EXTINF:0,IN: News18 India TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/19268.m3u8
+#EXTINF:0,IN: News18 Punjab TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/19267.m3u8
+#EXTINF:0,IN: News18 Tamil TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/32509.m3u8
+#EXTINF:0,IN: Nireekshana TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/20264.m3u8
+#EXTINF:0,IN: NLM TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/22117.m3u8
+#EXTINF:0,IN: ONEYES TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23846.m3u8
+#EXTINF:0,IN: PBN Music
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23793.m3u8
+#EXTINF:0,IN: Peace TV Bangla
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23785.m3u8
+#EXTINF:0,IN: Peace TV English
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23804.m3u8
+#EXTINF:0,IN: Peace TV Urdu
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23835.m3u8
+#EXTINF:0,IN: Powervision TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/32505.m3u8
+#EXTINF:0,IN: Prameya News 7 TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/20261.m3u8
+#EXTINF:0,IN: Pratidin Time TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/21999.m3u8
+#EXTINF:0,IN: Prime Asia TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23795.m3u8
+#EXTINF:0,IN: Prime TV Goa
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/25029.m3u8
+#EXTINF:0,IN: PTV PUNJABI
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/32519.m3u8
+#EXTINF:0,IN: Punjab iSSTV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23810.m3u8
+#EXTINF:0,IN: Punjabi Life
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23784.m3u8
+#EXTINF:0,IN: Revsam TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/24982.m3u8
+#EXTINF:0,IN: Rosebowl TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/16074.m3u8
+#EXTINF:0,IN: Rujumargam
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/16122.m3u8
+#EXTINF:0,IN: Rujumargam TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/11656.m3u8
+#EXTINF:0,IN: Saam TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/16038.m3u8
+#EXTINF:0,IN: Sadhna Bangla TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/16234.m3u8
+#EXTINF:0,IN: Sadhna News TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23817.m3u8
+#EXTINF:0,IN: Sadhna Plus TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/11632.m3u8
+#EXTINF:0,IN: Sadhna TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23392.m3u8
+#EXTINF:0,IN: Safari TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23418.m3u8
+#EXTINF:0,IN: Samachar 24 TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23845.m3u8
+#EXTINF:0,IN: Sankara TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23884.m3u8
+#EXTINF:0,IN: Saral Jeevan TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/16254.m3u8
+#EXTINF:0,IN: SEAM TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/21986.m3u8
+#EXTINF:0,IN: Shubhsandesh TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/21994.m3u8
+#EXTINF:0,IN: Sivan TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/24981.m3u8
+#EXTINF:0,IN: Steelbird Music
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23811.m3u8
+#EXTINF:0,IN: STS TAM?L TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/24974.m3u8
+#EXTINF:0,IN: Subhavaartha TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23789.m3u8
+#EXTINF:0,IN: SVBC 2 TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/19269.m3u8
+#EXTINF:0,IN: Swaraj Express TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23831.m3u8
+#EXTINF:0,IN: Swaraj Express TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/18401.m3u8
+#EXTINF:0,IN: T-SAT Nipuna TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/25036.m3u8
+#EXTINF:0,IN: Tamilan TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/18390.m3u8
+#EXTINF:0,IN: TCV TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/19282.m3u8
+#EXTINF:0,IN: TEJ
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/32544.m3u8
+#EXTINF:0,IN: TEMIL BUSINESS TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/24975.m3u8
+#EXTINF:0,IN: Thanthi TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23398.m3u8
+#EXTINF:0,IN: Thuthi TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/18400.m3u8
+#EXTINF:0,IN: Times Now TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/18392.m3u8
+#EXTINF:0,IN: Toronto int
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23816.m3u8
+#EXTINF:0,IN: TOTAL TV
+http://rtmp.smartstream.video/totaltv/totaltv/chunklist_w333449690.m3u8
+#EXTINF:0,IN: VAANAVIL TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23829.m3u8
+#EXTINF:0,IN: Vaanmalar TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/18394.m3u8
+#EXTINF:0,IN: Vaigai tv Madural
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/25037.m3u8
+#EXTINF:0,IN: Velicham tv
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23840.m3u8
+#EXTINF:0,IN: Velugu TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/16242.m3u8
+#EXTINF:0,IN: Vendhar TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/19284.m3u8
+#EXTINF:0,IN: Vendharm TV Tamil
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/18406.m3u8
+#EXTINF:0,IN: ViCTERS TV
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/18424.m3u8
+#EXTINF:0,IN: VTV News
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23782.m3u8
+#EXTINF:0,IN: ZING
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/32541.m3u8
+#EXTINF:0,Channel 9 Sport
+http://27.147.156.14:1935/Channel-9/Channel-9.stream/chunks.m3u8
+#EXTINF:0,Channel T1
+http://128.199.212.160/channelt1/1080/index.m3u8
+#EXTINF:0,Channel-S
+https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
+#EXTINF:0,Channel-S
+https://ap01.iqplay.tv:81/iqb8002/ch4n3ls.m3u8
+#EXTINF:0,Duronto TV
+http://27.147.156.14:1935/Durunto-TV/Duronto-TV.stream/playlist.m3u8
+#EXTINF:0,GAZI TV
+http://103.214.156.2:8080/hls/1.m3u8
+#EXTINF:0,GAZI TV
+http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+#EXTINF:0,Iqra Bangla
+https://ap01.iqplay.tv:81/iqb8002/iq53la.m3u8
+#EXTINF:0,Mohona TV
+http://27.147.156.14:1935/Mohona-TV/Mohona-TV.stream/chunks.m3u8
+#EXTINF:0,NTV (UK Time)
+https://a.jsrdn.com/r-373576a1/publish/22680_3BR3zocwi9/index.m3u8
+#EXTINF:0,NTV (US Pacific Time)
+https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
+#EXTINF:-1,UK INDIA | Zee Cinema FHD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/43328.m3u8
+#EXTINF:-1,UK INDIA | Zee Cinema HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/43329.m3u8
+#EXTINF:-1,UK INDIA | Zee Cinema SD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/43330.m3u8
+#EXTINF:-1,UK INDIA | Star Plus FHD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/43331.m3u8
+#EXTINF:-1,UK INDIA | Star Plus HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/43332.m3u8
+#EXTINF:-1,UK INDIA | Star Plus SD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/43333.m3u8
+#EXTINF:-1,UK INDIA | Star Gold FHD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/43334.m3u8
+#EXTINF:-1,UK INDIA | Star Gold HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/43335.m3u8
+#EXTINF:-1,UK INDIA | Star Gold SD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/43336.m3u8
+#EXTINF:-1,UK INDIA | Sony TV FHD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/43337.m3u8
+#EXTINF:-1,UK INDIA | Sony TV HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/43338.m3u8
+#EXTINF:-1,UK INDIA | Sony TV SD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/43339.m3u8
+#EXTINF:-1,UK INDIA | Sony Max FHD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/43340.m3u8
+#EXTINF:-1,UK INDIA | Sony Max HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/43341.m3u8
+#EXTINF:-1,UK INDIA | Sony Max SD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/43342.m3u8
+#EXTINF:-1,UK INDIA | Sony Movies
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/43343.m3u8
+#EXTINF:-1,UK INDIA | Sony Crime
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/43344.m3u8
+#EXTINF:-1,UK INDIA | Sony Christmas
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/43345.m3u8
+#EXTINF:-1,UK INDIA | Sony Channel
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/43346.m3u8
+#EXTINF:-1,UK INDIA | Sony Action
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/43347.m3u8
+#EXTINF:-1,UK INDIA | ROK+1
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/43348.m3u8
+#EXTINF:-1,UK INDIA | Sony Channel+1
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/43349.m3u8
+#EXTINF:-1,UK INDIA | SONY MAX
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/43350.m3u8
+#EXTINF:-1,UK INDIA | SONY MAX 2
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/43351.m3u8
+#EXTINF:-1,UK INDIA | Sony Movies+1
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/43352.m3u8
+#EXTINF:-1,UK INDIA | SONY SAB
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/43353.m3u8
+#EXTINF:-1,UK INDIA | SONY TV
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/43354.m3u8
+#EXTINF:-1,UK INDIA | Sony Xmas+1
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/43355.m3u8
+#EXTINF:-1,UK INDIA | Star Bharat
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/43356.m3u8
+#EXTINF:-1,UK INDIA | Star GOLD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/43357.m3u8
+#EXTINF:-1,UK INDIA | Star Plus
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/43358.m3u8
+#EXTINF:-1,UK | 4Seven FHD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/49540.m3u8
+#EXTINF:-1,UK | More4 FHD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/49541.m3u8
+#EXTINF:-1,UK | E4 FHD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/49542.m3u8
+#EXTINF:-1,UK | TLC FHD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/49543.m3u8
+#EXTINF:-1,UK | Fox FHD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/49544.m3u8
+#EXTINF:-1,UK | MTV FHD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/49545.m3u8
+#EXTINF:-1,UK | ITV 4 FHD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/49546.m3u8
+#EXTINF:-1,UK | ITV 3 FHD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/49547.m3u8
+#EXTINF:-1,UK | ITV 2 FHD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/49548.m3u8
+#EXTINF:-1,UK | ITV 1 FHD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/49549.m3u8
+#EXTINF:-1,UK | Channel 5 FHD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/49550.m3u8
+#EXTINF:-1,UK | Channel 4 FHD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/49551.m3u8
+#EXTINF:-1,UK | BBC Four FHD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/50673.m3u8
+#EXTINF:-1,UK India | Colours FHD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/50674.m3u8
+#EXTINF:-1,UK INDIA | B4u Movies
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/50675.m3u8
+#EXTINF:-1,UK INDIA | B4u Music
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/50676.m3u8
+#EXTINF:-1,UK INDIA | Sony Movies Christmas
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/50677.m3u8
+#EXTINF:-1,UK INDIA | Colours Cineplex
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/50678.m3u8
+#EXTINF:-1,UK INDIA | Sony SAB SD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/50679.m3u8
+#EXTINF:-1,UK | Sky Witness FHD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/50680.m3u8
+#EXTINF:-1,UK | Sky Witness HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/50681.m3u8
+#EXTINF:-1,UK | Sky Crime FHD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/50682.m3u8
+#EXTINF:-1,UK | Sky Crime HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/50683.m3u8
+#EXTINF:-1,UK | Sky Crime SD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/50684.m3u8
+#EXTINF:-1,UK | Sky Witness SD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/50685.m3u8
+#EXTINF:-1,COLORS FHD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/46187.m3u8
+#EXTINF:-1,Colors Rishtey
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/46186.m3u8
+#EXTINF:-1,Colors Cineplex
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/46185.m3u8
+#EXTINF:-1,B4U Movies
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/46184.m3u8
+#EXTINF:-1,B4U Plus
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/46183.m3u8
+#EXTINF:-1,B4U Music
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/46182.m3u8
+#EXTINF:-1,SONY SAB
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/46181.m3u8
+#EXTINF:-1,Zee TV
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/46180.m3u8
+#EXTINF:-1,Star Bharat
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/46179.m3u8
+#EXTINF:-1,HUM EUROPE
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/46178.m3u8
+#EXTINF:-1,IN | Zing
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48217.m3u8
+#EXTINF:-1,IN | Zee TV HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48218.m3u8
+#EXTINF:-1,IN | Zee Tamil HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48219.m3u8
+#EXTINF:-1,IN | Zee Talkies
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48220.m3u8
+#EXTINF:-1,IN | Zee News
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48221.m3u8
+#EXTINF:-1,IN | Zee Cinema HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48223.m3u8
+#EXTINF:-1,IN | Zee Cafe
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48224.m3u8
+#EXTINF:-1,IN | Zee Bangla HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48225.m3u8
+#EXTINF:-1,IN | Travel Xp HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48226.m3u8
+#EXTINF:-1,IN | Tlc World
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48227.m3u8
+#EXTINF:-1,IN | Ten Sports
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48228.m3u8
+#EXTINF:-1,IN | Ten Sports 3 HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48229.m3u8
+#EXTINF:-1,IN | Ten 2 HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48230.m3u8
+#EXTINF:-1,IN | Ten 1 HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48231.m3u8
+#EXTINF:-1,IN | Surya Samachar
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48232.m3u8
+#EXTINF:-1,IN | Sun TV HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48233.m3u8
+#EXTINF:-1,IN | Stars Ports 2 HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48234.m3u8
+#EXTINF:-1,IN | Star World HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48235.m3u8
+#EXTINF:-1,IN | Star Vijay Super
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48236.m3u8
+#EXTINF:-1,IN | Star Sprots 1 HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48238.m3u8
+#EXTINF:-1,IN | Star Sports Select 2 HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48239.m3u8
+#EXTINF:-1,IN | Star Sports Select 1 HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48240.m3u8
+#EXTINF:-1,IN | Star Plus HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48242.m3u8
+#EXTINF:-1,IN | Star Movies HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48243.m3u8
+#EXTINF:-1,IN | Star Maa HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48244.m3u8
+#EXTINF:-1,IN | Star Gold Select HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48245.m3u8
+#EXTINF:-1,IN | Star Gold HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48246.m3u8
+#EXTINF:-1,IN | Star Bharat
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48247.m3u8
+#EXTINF:-1,IN | Sony Sab HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48248.m3u8
+#EXTINF:-1,IN | Sony Max HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48249.m3u8
+#EXTINF:-1,IN | Sony HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48250.m3u8
+#EXTINF:-1,IN | Sky Star Movies
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48251.m3u8
+#EXTINF:-1,IN | Republic News
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48252.m3u8
+#EXTINF:-1,IN | Rajya Sabha
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48253.m3u8
+#EXTINF:-1,IN | Public News
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48254.m3u8
+#EXTINF:-1,IN | Ptc Punjabi
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48255.m3u8
+#EXTINF:-1,IN | Ptc News
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48256.m3u8
+#EXTINF:-1,IN | Ptc Chak De
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48257.m3u8
+#EXTINF:-1,IN | Pix HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48258.m3u8
+#EXTINF:-1,IN | Peace TV HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48259.m3u8
+#EXTINF:-1,IN | Peace TV English
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48260.m3u8
+#EXTINF:-1,IN | Paigham Pashtoo
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48262.m3u8
+#EXTINF:-1,IN | Nick HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48263.m3u8
+#EXTINF:-1,IN | News Rajhistan
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48264.m3u8
+#EXTINF:-1,IN | National Geographic
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48265.m3u8
+#EXTINF:-1,IN | Nat Geo Wild
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48266.m3u8
+#EXTINF:-1,IN | Masti
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48267.m3u8
+#EXTINF:-1,IN | Mahamovies
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48268.m3u8
+#EXTINF:-1,IN | Lok Sabha
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48269.m3u8
+#EXTINF:-1,IN | Ktv HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48270.m3u8
+#EXTINF:-1,IN | Jalwa
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48272.m3u8
+#EXTINF:-1,IN |dia News
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48273.m3u8
+#EXTINF:-1,IN | History HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48275.m3u8
+#EXTINF:-1,IN | Hbo HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48276.m3u8
+#EXTINF:-1,IN | Fox Life HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48277.m3u8
+#EXTINF:-1,IN | Express News HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48278.m3u8
+#EXTINF:-1,IN | Etv Uk
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48280.m3u8
+#EXTINF:-1,IN | Espn
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48281.m3u8
+#EXTINF:-1,IN | Epic HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48282.m3u8
+#EXTINF:-1,IN | Disney HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48283.m3u8
+#EXTINF:-1,IN | Discovery Turbo
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48284.m3u8
+#EXTINF:-1,IN | Discovery Science HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48285.m3u8
+#EXTINF:-1,IN | Discovery Kids
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48286.m3u8
+#EXTINF:-1,IN | Discovery Kids HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48287.m3u8
+#EXTINF:-1,IN | Discovery HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48288.m3u8
+#EXTINF:-1,IN | DD Urdu
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48289.m3u8
+#EXTINF:-1,IN | DD Sports
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48290.m3u8
+#EXTINF:-1,IN | DD Punjabi
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48291.m3u8
+#EXTINF:-1,IN | DD Kisan
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48292.m3u8
+#EXTINF:-1,IN | DD Girner
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48293.m3u8
+#EXTINF:-1,IN | DD Chandana
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48294.m3u8
+#EXTINF:-1,IN | DD Bharat
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48295.m3u8
+#EXTINF:-1,IN | DD Bangla
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48296.m3u8
+#EXTINF:-1,IN | DD Arun
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48297.m3u8
+#EXTINF:-1,IN | Dangal
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48298.m3u8
+#EXTINF:-1,IN | Colours UK
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48299.m3u8
+#EXTINF:-1,IN | Colorsfinity HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48302.m3u8
+#EXTINF:-1,IN | Colors HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48303.m3u8
+#EXTINF:-1,IN | Colors Bangla HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48304.m3u8
+#EXTINF:-1,IN | Cineplex HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48305.m3u8
+#EXTINF:-1,IN | Cinemachi Kids
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48306.m3u8
+#EXTINF:-1,IN | Cartoon Network
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48307.m3u8
+#EXTINF:-1,IN | Bollywood Movies
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48308.m3u8
+#EXTINF:-1,IN | Big Magic
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48309.m3u8
+#EXTINF:-1,IN | Bhojpori Cinema
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48310.m3u8
+#EXTINF:-1,IN | Baby TV HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48311.m3u8
+#EXTINF:-1,IN | B4u Music
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48312.m3u8
+#EXTINF:-1,IN | B4u Movies
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48313.m3u8
+#EXTINF:-1,IN | Asianet HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48314.m3u8
+#EXTINF:-1,IN | Animal Planet World HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48315.m3u8
+#EXTINF:-1,IN | Animal Planet HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48316.m3u8
+#EXTINF:-1,IN | AAJ News
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48317.m3u8
+#EXTINF:-1,IN | AAJ Katez
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48318.m3u8
+#EXTINF:-1,IN | 9xm
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48319.m3u8
+#EXTINF:-1,IN | 8xm HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48320.m3u8
+#EXTINF:-1,IN | 4tv News
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48321.m3u8
+#EXTINF:-1,IN | 1
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48322.m3u8
+#EXTINF:-1,IN | &Tv HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48323.m3u8
+#EXTINF:-1,IN | &Prive HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48324.m3u8
+#EXTINF:-1,IN | &Pictures HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48325.m3u8
+#EXTINF:-1,IN | &Flix HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48326.m3u8
+#EXTINF:-1,IN | UK- SONY TV
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48327.m3u8
+#EXTINF:-1,IN | UK- SONY MAX
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48328.m3u8
+#EXTINF:-1,IN | Zing
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48330.m3u8
+#EXTINF:-1,IN | Pictures HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48331.m3u8
+#EXTINF:-1,IN | ddindia
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48335.m3u8
+#EXTINF:-1,IN | ddnews
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48336.m3u8
+#EXTINF:-1,IN | &Flix HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57218.m3u8
+#EXTINF:-1,IN | &Pictures HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57219.m3u8
+#EXTINF:-1,IN | &Prive HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57220.m3u8
+#EXTINF:-1,IN | &Tv HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57221.m3u8
+#EXTINF:-1,IN | 1
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57222.m3u8
+#EXTINF:-1,IN | 4tv News
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57223.m3u8
+#EXTINF:-1,IN | 8xm HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57224.m3u8
+#EXTINF:-1,IN | 9xm
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57225.m3u8
+#EXTINF:-1,IN | AAJ Katez
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57226.m3u8
+#EXTINF:-1,IN | AAJ News
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57227.m3u8
+#EXTINF:-1,IN | Animal Planet HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57228.m3u8
+#EXTINF:-1,IN | Animal Planet World HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57229.m3u8
+#EXTINF:-1,IN | Asianet HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57230.m3u8
+#EXTINF:-1,IN | B4u Movies
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57231.m3u8
+#EXTINF:-1,IN | B4u Music
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57232.m3u8
+#EXTINF:-1,IN | Baby TV HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57233.m3u8
+#EXTINF:-1,IN | Big Magic
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57234.m3u8
+#EXTINF:-1,IN | Bollywood Movies
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57235.m3u8
+#EXTINF:-1,IN | Cartoon Network
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57236.m3u8
+#EXTINF:-1,IN | Bhojpori Cinema
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57237.m3u8
+#EXTINF:-1,IN | Cinemachi Kids
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57238.m3u8
+#EXTINF:-1,IN | Cineplex HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57239.m3u8
+#EXTINF:-1,IN | Colors Bangla HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57240.m3u8
+#EXTINF:-1,IN | Colors HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57241.m3u8
+#EXTINF:-1,IN | Colorsfinity HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57242.m3u8
+#EXTINF:-1,IN | Colors Kannada HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57243.m3u8
+#EXTINF:-1,IN | Colours UK
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57244.m3u8
+#EXTINF:-1,IN | Dangal
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57245.m3u8
+#EXTINF:-1,IN | Colors Tamil HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57246.m3u8
+#EXTINF:-1,IN | DD Arun
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57247.m3u8
+#EXTINF:-1,IN | DD Bangla
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57248.m3u8
+#EXTINF:-1,IN | DD Bharat
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57249.m3u8
+#EXTINF:-1,IN | DD Chandana
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57250.m3u8
+#EXTINF:-1,IN | DD Girner
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57251.m3u8
+#EXTINF:-1,IN | DD Kisan
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57252.m3u8
+#EXTINF:-1,IN | DD Punjabi
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57253.m3u8
+#EXTINF:-1,IN | DD Sports
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57254.m3u8
+#EXTINF:-1,IN | Discovery HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57255.m3u8
+#EXTINF:-1,IN | Discovery Kids HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57256.m3u8
+#EXTINF:-1,IN | DD Urdu
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57257.m3u8
+#EXTINF:-1,IN | Discovery Kids
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57258.m3u8
+#EXTINF:-1,IN | Discovery Science HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57259.m3u8
+#EXTINF:-1,IN | Discovery Turbo
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57260.m3u8
+#EXTINF:-1,IN | Disney HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57261.m3u8
+#EXTINF:-1,IN | Epic HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57262.m3u8
+#EXTINF:-1,IN | Espn
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57263.m3u8
+#EXTINF:-1,IN | Etv Uk
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57264.m3u8
+#EXTINF:-1,IN | Express Entertainment
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57265.m3u8
+#EXTINF:-1,IN | Express News HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57266.m3u8
+#EXTINF:-1,IN | Ten 1 HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57267.m3u8
+#EXTINF:-1,IN | Surya Samachar
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57268.m3u8
+#EXTINF:-1,IN | Sun TV HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57269.m3u8
+#EXTINF:-1,IN | Stars Ports 2 HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57270.m3u8
+#EXTINF:-1,IN | Star World HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57271.m3u8
+#EXTINF:-1,IN | Fox Life HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57272.m3u8
+#EXTINF:-1,IN | Hbo HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57273.m3u8
+#EXTINF:-1,IN | History HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57274.m3u8
+#EXTINF:-1,IN | Ifilm HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57275.m3u8
+#EXTINF:-1,IN | India News
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57276.m3u8
+#EXTINF:-1,IN | Jalwa
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57277.m3u8
+#EXTINF:-1,IN | Kashish
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57278.m3u8
+#EXTINF:-1,IN | Ktv HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57279.m3u8
+#EXTINF:-1,IN | Masti
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57280.m3u8
+#EXTINF:-1,IN | Mahamovies
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57281.m3u8
+#EXTINF:-1,IN | Lok Sabha
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57282.m3u8
+#EXTINF:-1,IN | Nat Geo Wild
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57283.m3u8
+#EXTINF:-1,IN | National Geographic
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57284.m3u8
+#EXTINF:-1,IN | News Rajhistan
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57285.m3u8
+#EXTINF:-1,IN | Paigham Pashtoo
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57286.m3u8
+#EXTINF:-1,IN | Nick HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57287.m3u8
+#EXTINF:-1,IN | Paigham Urdu
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57288.m3u8
+#EXTINF:-1,IN | Peace TV English
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57289.m3u8
+#EXTINF:-1,IN | Peace TV HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57290.m3u8
+#EXTINF:-1,IN | Republic News
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57291.m3u8
+#EXTINF:-1,IN | Rajya Sabha
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57292.m3u8
+#EXTINF:-1,IN | Public News
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57293.m3u8
+#EXTINF:-1,IN | Ptc Punjabi
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57294.m3u8
+#EXTINF:-1,IN | Ptc News
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57295.m3u8
+#EXTINF:-1,IN | Ptc Chak De
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57296.m3u8
+#EXTINF:-1,IN | Pix HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57297.m3u8
+#EXTINF:-1,IN | Sony Sab HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57298.m3u8
+#EXTINF:-1,IN | Sony Max HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57299.m3u8
+#EXTINF:-1,IN | Sony Max 2 HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57300.m3u8
+#EXTINF:-1,IN | Sony HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57301.m3u8
+#EXTINF:-1,IN | Sky Star Movies
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57302.m3u8
+#EXTINF:-1,IN | Star Gold Select HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57303.m3u8
+#EXTINF:-1,IN | Star Gold HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57304.m3u8
+#EXTINF:-1,IN | Star Bharat
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57305.m3u8
+#EXTINF:-1,IN | Sony Yay
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57306.m3u8
+#EXTINF:-1,IN | Sony Six HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57307.m3u8
+#EXTINF:-1,IN | Star Sports Select 2 HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57308.m3u8
+#EXTINF:-1,IN | Star Sports Select 1 HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57309.m3u8
+#EXTINF:-1,IN | Star Sports Hindi HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57310.m3u8
+#EXTINF:-1,IN | Star Plus HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57311.m3u8
+#EXTINF:-1,IN | Star Movies HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57312.m3u8
+#EXTINF:-1,IN | Star Maa HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57313.m3u8
+#EXTINF:-1,IN | Star Sprots 1 HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57314.m3u8
+#EXTINF:-1,IN | Star Vijay HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57315.m3u8
+#EXTINF:-1,IN | Star Vijay Super
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57316.m3u8
+#EXTINF:-1,IN | Zing
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57317.m3u8
+#EXTINF:-1,IN | Zee Tamil HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57318.m3u8
+#EXTINF:-1,IN | Zee TV HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57319.m3u8
+#EXTINF:-1,IN | Zee Talkies
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57320.m3u8
+#EXTINF:-1,IN | Zee News
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57321.m3u8
+#EXTINF:-1,IN | Zee Hindustan
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57322.m3u8
+#EXTINF:-1,IN | Zee Cinema HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57323.m3u8
+#EXTINF:-1,IN | Zee Cafe
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57324.m3u8
+#EXTINF:-1,IN | Zee Bangla HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57325.m3u8
+#EXTINF:-1,IN | Utv Action
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57326.m3u8
+#EXTINF:-1,IN | Travel Xp HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57327.m3u8
+#EXTINF:-1,IN | Tlc World
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57328.m3u8
+#EXTINF:-1,IN | Ten Sports
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57329.m3u8
+#EXTINF:-1,IN | Ten Sports HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57330.m3u8
+#EXTINF:-1,IN | Ten 2 HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57331.m3u8
+#EXTINF:-1,IN | Ten Sports 3 HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/57332.m3u8
+#EXTINF:-1,======IPTV INDIA======
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/4256
+#EXTINF:-1,IN: Ahlebait TV
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/12095
+#EXTINF:-1,IN: &TV
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/2697
+#EXTINF:-1,IN: &Picture
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/12002
+#EXTINF:-1,IN: Gemini Life
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/11998
+#EXTINF:-1,IN: Gemini Movies
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/11999
+#EXTINF:-1,IN: Gemini TV
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/12000
+#EXTINF:-1,IN: B4U Movies
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/588
+#EXTINF:-1,IN: B4U Music
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/612
+#EXTINF:-1,IN: COLORS HD
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/5274
+#EXTINF:-1,Colors Infinity
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/12016
+#EXTINF:-1,Colors Tamil
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/12015
+#EXTINF:-1,IN: Colors UK
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/1648
+#EXTINF:-1,IN: Maha Movies
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/12006
+#EXTINF:-1,IN: News 24 Bangala
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/3731
+#EXTINF:-1,IN: Rishtey Cineplex
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/4253
+#EXTINF:-1,IN: Rishtey Europe
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/605
+#EXTINF:-1,IN: Star Movies
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/12001
+#EXTINF:-1,IN: Sony Max
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/12065
+#EXTINF:-1,IN: Sony TV
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/12066
+#EXTINF:-1,IN: Sony Mix TV
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/3275
+#EXTINF:-1,IN: Sony Max 2
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/12091
+#EXTINF:-1,IN: Star Bharat
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/4252
+#EXTINF:-1,IN: Star Gold HD
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/587
+#EXTINF:-1,IN: Star Plus HD
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/585
+#EXTINF:-1,IN: ZEE Action
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/3752
+#EXTINF:-1,IN: Zee Bollywood
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/3751
+#EXTINF:-1,IN: Zee Cinema
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/602
+#EXTINF:-1,IN: ZEE ETC
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/12007
+#EXTINF:-1,IN: Zee News
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/604
+#EXTINF:-1,IN: ZEE Punjabi
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/3750
+#EXTINF:-1,IN: Zee TV
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/601
+#EXTINF:-1,DSTV: Africa Magic Family
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/11809
+#EXTINF:-1,DSTV: AfricaMagic Epic
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/11808
+#EXTINF:-1,DSTV: Emmanuel TV
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/11976
+#EXTINF:-1,DSTV: eMovies Extra
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/11802
+#EXTINF:-1,DSTV: Ignition
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/11815
+#EXTINF:-1,DSTV: M-Net
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/11807
+#EXTINF:-1,DSTV: M-Net Movies Action
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/11799
+#EXTINF:-1,DSTV: M-Net Movies Action Plus
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/11800
+#EXTINF:-1,DSTV: M-Net Movies All Stars
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/11806
+#EXTINF:-1,DSTV: M-Net Movies Premiere
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/11804
+#EXTINF:-1,DSTV: M-Net Movies Smile
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/11805
+#EXTINF:-1,DSTV: M-Net Plus 1
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/11810
+#EXTINF:-1,DSTV: Newzroom Afrika
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/11812
+#EXTINF:-1,DSTV: SOUNDCITY
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/11811
